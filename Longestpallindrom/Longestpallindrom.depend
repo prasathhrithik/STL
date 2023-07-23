@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1690137036 source:c:\users\emb-hrituma\documents\constructor\longestpallindrom\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<string>
+	<bits/stdc++.h>
+
